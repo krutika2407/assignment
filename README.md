@@ -1,6 +1,7 @@
 # todo
 
 A new Flutter project.
+A basic to-do app built with Flutter. This app has add/delete/update functinality with search for any existing to-do item in the app.
 
 ## Getting Started
 
@@ -14,3 +15,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
